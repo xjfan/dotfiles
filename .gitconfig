@@ -1,3 +1,6 @@
+[user]
+  name = Jim Fan
+  email = jim.fan@farfetch.com
 [alias]
 	c = commit -am
 	fpush = push --force

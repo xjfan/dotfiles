@@ -1,5 +1,5 @@
-set default_user "paulirish"
-set default_machine "paulirish-macbookair2"
+set default_user "jimfan"
+set default_machine "jimfan-macbookair2"
 
 
 source ~/.config/fish/path.fish
